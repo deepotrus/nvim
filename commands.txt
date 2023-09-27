@@ -1,0 +1,2 @@
+:PackerSync # Sync all the packages, do it after installing a plugin
+:set number # add line numbers
